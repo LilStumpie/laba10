@@ -42,3 +42,8 @@ def z3():
 
 
     img.show()
+
+a = int(input('номер задания'))
+if a == 1: z1()
+if a == 2: z2()
+if a == 3: z3()
